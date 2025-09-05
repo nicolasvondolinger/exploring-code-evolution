@@ -81,9 +81,15 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/Snailclimb/JavaGuide
+2. Gráfico selecionado: ![alt text](image.png)
+3. Explicação: 
+
+Este gráfico apresenta uma análise da quantidade de comentários no código do projeto, especificamente no ano de 2025. Fica evidente que há uma preferência massiva por comentários de linha única (line_comment), com aproximadamente 11 ocorrências, em contraste com apenas um único comentário em bloco (block_comment). Essa proporção desigual demonstra de forma clara um padrão de codificação adotado pelos desenvolvedores do projeto.
+
+Essa forte inclinação para comentários de linha sugere uma cultura de desenvolvimento focada em código limpo e autoexplicativo. Os desenvolvedores parecem optar por anotações curtas e contextuais, inseridas diretamente ao lado da lógica que precisa de esclarecimento, em vez de longas explicações. O objetivo é manter a clareza sem poluir o código com blocos de texto extensos, o que é uma prática recomendada em muitas metodologias de desenvolvimento modernas.
+
+A existência de um único comentário em bloco indica que seu uso é reservado para situações muito específicas, como um cabeçalho de licença no topo de um arquivo, a documentação formal de uma função particularmente complexa ou para desativar temporariamente um trecho de código. Portanto, o gráfico não revela apenas uma contagem, mas aponta para uma estratégia deliberada de evolução do código, onde a legibilidade e a manutenção são priorizadas através de um estilo de documentação conciso e intencional.
 
 
 
